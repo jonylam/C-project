@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641838300 source:d:\files\simeiwsis\c\2021\ergasiabap2021\ergasiabap2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"funcs.h"
+
+1641841733 d:\files\simeiwsis\c\2021\ergasiabap2021\ergasiabap2021\funcs.h
+	"math.h"
+
